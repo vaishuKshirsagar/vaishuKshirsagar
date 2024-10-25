@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** passionat
 - **Other Skills**: Data Structures & Algorithms, Problem Solving, Leadership, Communication
 
 ## 🌟 Featured Projects
-### [QuizApp](https://quizapp-upraised.netlify.app/) - Quiz Web App: An interactive platform.
-Developed a video sharing platform using **React, Node.js, MongoDB, and Express.js**. Implemented features like Google OAuth authentication, JSON web tokens, and CRUD operations. [GitHub Repo](https://github.com/vaishuKshirsagar/upraised-quizApp)
+### [QuizApp](https://quizapp-upraised.netlify.app/) - Quiz Web App
+Developed Quiz web app, An interactive platform built using **React, Hooks, Quiz API, and Node.js** that allows users to evaluate their skills across various topics through a series of questions. The app features a user-friendly interface for starting quizzes, answering questions one at a time, and receiving a score report at the end. It utilizes React Router to navigate. [GitHub Repo](https://github.com/vaishuKshirsagar/upraised-quizApp)
 
 ### [YourTube](https://yourtube5050.netlify.app) - A Video Sharing Platform
 Developed a video sharing platform using **React, Node.js, MongoDB, and Express.js**. Implemented features like Google OAuth authentication, JSON web tokens, and CRUD operations. [GitHub Repo](https://github.com/vaishuKshirsagar/yourtube_project)
