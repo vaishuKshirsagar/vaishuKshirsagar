@@ -20,14 +20,14 @@ Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** passionat
 Developed Quiz web app, An interactive platform built using **React, Hooks, Quiz API, and Node.js** that allows users to evaluate their skills across various topics through a series of questions. The app features a user-friendly interface for starting quizzes, answering questions one at a time, and receiving a score report at the end. It utilizes React Router to navigate. [GitHub Repo](https://github.com/vaishuKshirsagar/upraised-quizApp)
 
 ### [YourTube](https://yourtube5050.netlify.app) - A Video Sharing Platform
-Developed a video sharing platform using **React, Node.js, MongoDB, and Express.js**. Implemented features like Google OAuth authentication, JSON web tokens, and CRUD operations. [GitHub Repo](https://github.com/vaishuKshirsagar/yourtube_project)
+Developed a video sharing platform using **React, Node.js, MongoDB, and Express.js** that allows user to create channel, upload videos, watch videos. User can see history, saved videos and watch later any video. Implemented features like Google OAuth authentication, JSON web tokens, and CRUD operations. [GitHub Repo](https://github.com/vaishuKshirsagar/yourtube_project)
 [GitHub Repo](https://github.com/vaishuKshirsagar/yourtube-backend)
 
 ### [Apple Vision Pro Clone](https://vaishukshirsagar.github.io/vision-pro.github.io/) - Animated Web Interface
-An interactive website with parallax scrolling and animations, optimized for performance and user experience. Built with **HTML, CSS, JavaScript, and JavaScript animation libraries**. [GitHub Repo](https://github.com/vaishuKshirsagar/vision-pro.github.io)
+An interactive website with parallax scrolling and animations, optimized for performance and user experience. Built with **HTML, CSS, JavaScript, and JavaScript animation libraries**. This website is a replika of Apple Visiom Pro Clone website. [GitHub Repo](https://github.com/vaishuKshirsagar/vision-pro.github.io)
 
 ### [SkillUps](https://github.com/vaishuKshirsagar/E-Learning_Portal) - E-Learning Portal System
-A web-based platform built using **Java Swing, JDBC, and Java OOPs features**, featuring course management, student registration, and certification generation.
+A web-based platform built using **HTML, CSS, JavaScript, Bootstrap and PHP**, that allows admin course management, add students and allows user to register to courses, give quiz and earn certification.
 
 ## 🎓 Education
 - **Bachelor’s in Computer Engineering** (Ongoing) – Dr. D.Y. Patil Institute of Technology, Pimpri
